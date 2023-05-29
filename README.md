@@ -38,6 +38,8 @@
  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="USD" height="20" width="30" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
  <img align="center" alt="USD" height="20" width="30" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg">
 </div>
 
