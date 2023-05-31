@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F1FED&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo(a)+!;Me+chamo+Adonis+Jeronimo;tenho+24+anos;e+moro+em+São+Paulo-SP;Formado+em+Design+Grafico;FrontEnd+Junior+👨🏻‍💻)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AdonisJeronimo&bg_color=0d1117&color=fff&line=1818BA&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdonisJeronimo&bg_color=0d1117&color=fff&line=1818BA&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
